@@ -21,5 +21,5 @@ and delivering impactful storytelling presentations.
 
 ## Projects Portfolio
 ### Data-Driven EEG Band Discovery with Decision Trees
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](images/KPIs.jpg)
 
