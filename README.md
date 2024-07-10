@@ -24,10 +24,10 @@ and delivering impactful storytelling presentations.
 ![EEG Band Discovery](images/KPIs.jpg)
 
 ### Data-Driven EEG Band Discovery with Decision Trees
-![EEG Band Discovery](images/Requests.jpg)
+![EEG Band Discovery](images/Shipping.jpg)
 
 ### Data-Driven EEG Band Discovery with Decision Trees
-![EEG Band Discovery](images/Shipping.jpg)
+![EEG Band Discovery](images/Requests.jpg)
 
 ### Data-Driven EEG Band Discovery with Decision Trees
 ![EEG Band Discovery](images/Volumes.jpg)
