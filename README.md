@@ -1,5 +1,5 @@
 #### Professional Summary
-Dynamic professional with over 5 years of experience in data analysis and business intelligence within the FMCG sector. Proven expertise in deriving actionable insights from complex data sets and enhancing decision-making processes through advanced data visualization and analytics tools. Skilled in SAP, Power BI, and Excel, with a strong quantitative background and a solid foundation in Economics and Informatics. Able in managing analytics projects from start to completion, fostering a data-driven culture, and delivering impactful storytelling presentations.
+Dynamic professional with 4+ years of experience in data analysis and business intelligence within the FMCG sector. Proven expertise in deriving actionable insights from complex data sets and enhancing decision-making processes through advanced data visualization and analytics tools. Skilled in SAP, Power BI, and Excel, with a strong quantitative background and a solid foundation in Economics and Informatics. Able in managing analytics projects from start to completion, fostering a data-driven culture, and delivering impactful storytelling presentations.
 
 ## Work Experience
 **Liquid Planner @ Campari Group (_May 2021 - Present_)**
