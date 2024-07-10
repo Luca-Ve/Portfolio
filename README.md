@@ -20,17 +20,17 @@ and delivering impactful storytelling presentations.
 - Enhanced customer database segmentation (300+ clients) for improved offer personalization.
 
 ## Projects Portfolio
-### Data-Driven EEG Band Discovery with Decision Trees
+### Sales Analysis
 ![EEG Band Discovery](images/KPIs.jpg)
 
-### Data-Driven EEG Band Discovery with Decision Trees
+### Shipping Analysis
 ![EEG Band Discovery](images/Shipping.jpg)
 
-### Data-Driven EEG Band Discovery with Decision Trees
+### Customer Service Analysis
 ![EEG Band Discovery](images/Requests.jpg)
 
-### Data-Driven EEG Band Discovery with Decision Trees
+### Production Volumes
 ![EEG Band Discovery](images/Volumes.jpg)
 
-### Data-Driven EEG Band Discovery with Decision Trees
+### Planning
 ![EEG Band Discovery](images/Project.jpg)
