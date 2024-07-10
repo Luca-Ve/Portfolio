@@ -31,6 +31,3 @@ and delivering impactful storytelling presentations.
 
 ### Production Volumes
 ![EEG Band Discovery](images/Volumes.jpg)
-
-### Planning
-![EEG Band Discovery](images/Project.jpg)
