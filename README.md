@@ -1,17 +1,25 @@
-# Data Analyst
-
-#### Technical Skills: Python, SQL, Excel, Power BI
-
-## Education
-- B.S., Business Administration | Università Telematica Pegaso
+#### Professional Summary
+Dynamic professional with over 5 years of experience in data analysis and business
+intelligence within the FMCG sector. Proven expertise in deriving actionable insights
+from complex data sets and enhancing decision-making processes through advanced
+data visualization and analytics tools. Skilled in SAP, Power BI, and Excel, with a strong
+quantitative background and a solid foundation in Economics and Informatics. Able in
+managing analytics projects from start to completion, fostering a data-driven culture,
+and delivering impactful storytelling presentations.
 
 ## Work Experience
-**Data Analyst @ Campari Group (_June 2021 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Liquid Planner @ CAMPARI GROUP (_May 2021 - Present_)**
+- Analyzed and integrated data from various software (SAP, TMS, WHMS). Design ETL pipeline from SAP, aggregating data from internal and 3rd party tools and loaded into user friendly dashboards.
+- Deliver monthly tailored reports to provide insights and evaluate the performance related with specific projects from Demand Planning, Business Development and Sales.
+- Responsible for Inventory and Production Volume control for 11 brands (Aperol, Averna, Riccadonna, Mondoro, Frangelico, Bankes-Bickens, Braulio, XRated, Sarti Rosa, Diesus, Spritz) in Canale’s plant and 2 external co-manufacturing in Italy.
+- Led cross-functional project teams achieving an 11% annual production volume increase for Aperol brand within our budget expectations.
 
-## Projects
-### Data-Driven ... with Decision Trees
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**Winery Retail Supervisor @ “Veglio Romano & Lorenzo” Winery (_June 2018 - April 2021_)**
+- Created and optimized an Excel database for inventory management based on sales forecasts, product type, and production year.
+- Enhanced customer database segmentation (300+ clients) for improved offer personalization.
+
+## Projects Portfolio
+### Data-Driven EEG Band Discovery with Decision Trees
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
