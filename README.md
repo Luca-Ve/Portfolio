@@ -4,20 +4,18 @@ Dynamic professional with 4+ years of experience in data analysis and business i
 ## Work Experience
 **Liquid Planner @ Campari Group (_May 2021 - Present_)**
 
-- Analyzed and integrated data from various software (SAP, TMS, WHMS). Design ETL pipeline from SAP, aggregating data from internal and 3rd party tools and loaded into user friendly dashboards.
+- **ETL (Extract, Transform, Load) Processes:** Analyzing and integrating data from various software (SAP, TMS, WHMS). Design ETL pipeline from SAP, aggregating data from internal and 3rd party tools for analysis.
 
-- Deliver monthly tailored reports to provide insights and evaluate the performance related with specific projects from Demand Planning, Business Development and Sales.
-
-- Responsible for Inventory and Production Volume control for 11 brands (Aperol, Averna, Riccadonna, Mondoro, Frangelico, Bankes-Bickens, Braulio, XRated, Sarti Rosa, Diesus, Spritz) in Canale’s plant and 2 external co-manufacturing in Italy.
-
-- Led cross-functional project teams achieving an 11% annual production volume increase for Aperol brand within our budget expectations.
+- **Reporting & Budget Analysis:** Responsible for calculating production costs (€/L), managing volume constraints and supporting the definition of the annual budget reporting directly to the Plant Director.
 
 
 **Winery Retail Supervisor @ “Veglio Romano & Lorenzo” Winery (_June 2018 - April 2021_)**
 
-- Created and optimized an Excel database for inventory management based on sales forecasts, product type, and production year.
+- **Inventory Management:** Created and optimized an Excel database for inventory management based on sales forecasts, product type and production year.
 
-- Enhanced customer database segmentation (300+ clients) for improved offer personalization.
+- **Cash Flow Management & Cost Control:** Monitoring and analyzing operational costs, assisting in identifying cost-saving opportunities and ensuring timely payment of invoices and collections from clients.
+
+- **Customer Relationship:** Enhanced customer database segmentation (300+ clients) for improved offer personalization.
 
 ## Projects Portfolio
 ### Sales Analysis
