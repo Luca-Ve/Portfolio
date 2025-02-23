@@ -18,7 +18,7 @@ Dynamic financial professional with 4+ years of experience in **Data Analysis** 
 
 - **Customer Relationship:** Enhanced customer database segmentation (300+ clients) for improved offer personalization.
 
-## Projects Portfolio
+## Projects Portfolio *(random data)*
 ### Sales Analysis
 ![EEG Band Discovery](images/KPIs.jpg)
 
