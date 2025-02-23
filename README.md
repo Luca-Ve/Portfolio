@@ -1,12 +1,13 @@
 #### Professional Summary
-Dynamic professional with 4+ years of experience in data analysis and business intelligence within the FMCG sector. Proven expertise in deriving actionable insights from complex data sets and enhancing decision-making processes through advanced data visualization and analytics tools. Skilled in SAP, Power BI, and Excel, with a strong quantitative background and a solid foundation in Economics and Informatics. Able in managing analytics projects from start to completion, fostering a data-driven culture, and delivering impactful storytelling presentations.
+Dynamic financial professional with 4+ years of experience in **Data Analysis** and **Business Intelligence** within the FMCG sector. Proven expertise in designing data models, budgeting, and forecasting, with a strong focus on deriving actionable insights from complex data sets. Skilled in **SAP, Power BI, and Excel**, with a solid foundation in **Economics** and **Informatics**. Fluent in English with experience in multinational environments. 
+
 
 ## Work Experience
 **Liquid Planner @ Campari Group (_May 2021 - Present_)**
 
-- **ETL (Extract, Transform, Load) Processes:** Analyzing and integrating data from various software (SAP, TMS, WHMS). Design ETL pipeline from SAP, aggregating data from internal and 3rd party tools for analysis.
+- **ETL & Data Analysis:** Analyzing and integrating data from various software (SAP, TMS, WHMS). Design ETL pipeline from SAP, aggregating data from internal and 3rd party tools for analysis.
 
-- **Reporting & Budget Analysis:** Responsible for calculating production costs (€/L), managing volume constraints and supporting the definition of the annual budget reporting directly to the Plant Director.
+- **Budgeting & Reporting:** Responsible for calculating production costs (€/L), managing volume constraints and supporting the definition of the annual budget reporting directly to the Plant Director.
 
 
 **Winery Retail Supervisor @ “Veglio Romano & Lorenzo” Winery (_June 2018 - April 2021_)**
