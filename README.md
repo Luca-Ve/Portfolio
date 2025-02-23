@@ -22,9 +22,6 @@ Dynamic financial professional with 4+ years of experience in **Data Analysis** 
 ### Sales Analysis
 ![EEG Band Discovery](images/KPIs.jpg)
 
-### Shipping Analysis
-![EEG Band Discovery](images/Shipping.jpg)
-
 ### Customer Service Analysis
 ![EEG Band Discovery](images/Requests.jpg)
 
